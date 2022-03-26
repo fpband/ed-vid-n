@@ -22,16 +22,11 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "5002292255:AAEGHwgg9KF7oEbR1IVYqbCFUkdI0qccsj0"
+            "value": "5002292255:AAG3EmBHEaTPRxW8hZ797xuES-baLWm29Wo"
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
             "value": "763990585"
-        },
-        "HEROKU_API": {
-            "description": "Your heroku app name(optional, add only if you want to restart directly from tg.",
-            "value": "",
-            "required": false
         },
         "HEROKU_APP_NAME": {
             "description": "Your heroku api, you can get it from heroku account settings(optional, add only if you want to restart directly from tg.",
