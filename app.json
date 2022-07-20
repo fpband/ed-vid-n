@@ -35,11 +35,11 @@
         },
         "LOG_CHANNEL": {
             "description": "Log channel username, without using '@'.",
-            "value": "bxnmzj"
+            "value": "wplus1"
         },
         "LOG_ID": {
             "description": "Log channel `ID` (Should be Public)",
-            "value": "-1001756415227"
+            "value": "-1001482606933"
         },
         "ACCESS_CHANNEL": {
             "description": "Private group id to spy users.(Should be public group)",
@@ -51,11 +51,11 @@
         },
         "FORCESUB": {
             "description": "Channel id to which u want user be force subcribed.(Should be public)",
-            "value": "-1001208480573"
+            "value": "-1001482606933"
         },
         "FORCESUB_UN": {
             "description": "Forcesub channel's username.",
-            "value": "SeriesPlus1"
+            "value": "wplus1"
         },
         "BOT_UN": {
             "description": "Username of your bot.",
